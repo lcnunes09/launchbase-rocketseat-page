@@ -52,4 +52,5 @@ Criei [este layout](https://www.figma.com/file/84pozDY5TVJwdUolmdfkQl/P%C3%A1gin
 ## Recursos
 
 Primeiros passos com o Figma: https://www.youtube.com/watch?v=vg-INqhKD5c
+
 Páginas para inspiração de layouts: [LandingFolio](https://www.landingfolio.com/ "LandingFolio").
