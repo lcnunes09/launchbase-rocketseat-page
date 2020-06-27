@@ -1,2 +1,3 @@
-# rockseat-page
-Página criada como parte do desafio 2 no LaunchBase pela Rockset.
+# :rocket: Rockseat Page
+
+Página criada como parte do segundo desafio no LaunchBase pela Rockseat.
